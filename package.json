@@ -1,0 +1,25 @@
+{
+  "name": "burg3rz",
+  "version": "1.0.0",
+  "description": "EAT!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swilson9894/burg3rz.git"
+  },
+  "author": "ShontaWilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swilson9894/burg3rz/issues"
+  },
+  "homepage": "https://github.com/swilson9894/burg3rz#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
